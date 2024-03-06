@@ -1,2 +1,2 @@
-# oil_urgency_model
-Used oil urgency code classification model
+# Used Oil Urgency Code Classification Model
+Forthcoming notebook and web interface.
