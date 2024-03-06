@@ -1,2 +1,2 @@
 # Used Oil Urgency Code Classification Model
-Forthcoming notebook and web interface.
+Random Forest classifier; forthcoming notebook and web interface.
